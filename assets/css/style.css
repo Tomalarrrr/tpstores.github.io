@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/img/background.png") top center;
+  background: url("/assets/img/background.webp") top center;
   background-size: cover;
   position: relative;
   border-bottom: 1px solid #222;
@@ -603,7 +603,7 @@ section {
 
 /* # Cta */
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.6), rgba(0, 0, 0, 0.8)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.6), rgba(0, 0, 0, 0.8)), url("../img/cta-bg.webp") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
