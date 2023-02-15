@@ -1,14 +1,12 @@
+document.cookie = "cookies=none";
+document.cookie = "sameSite=strict";
+
 /**
 * Template Name: Plato - v2.0.0
 * Template URL: https://bootstrapmade.com/plato-responsive-bootstrap-website-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
-
-document.cookie = "cookies=none";
-document.cookie = "sameSite=strict";
-
 !(function($) {
   "use strict";
 
